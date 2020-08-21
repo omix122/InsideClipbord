@@ -1,0 +1,2 @@
+# InsideClipbord
+Each time that you copy something into the clipboard for pasting it into another application, the copied data is saved into multiple formats. The main clipboard application of Windows only display the basic clipboard formats, like text and bitmaps, but doesn't display the list of all formats that are stored in the clipboard. InsideClipboard is a small utility that displays the binary content of all formats that are currently stored in the clipboard, and allow you to save the content of specific format into a binary file.
